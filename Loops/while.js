@@ -32,7 +32,7 @@ console.log("Dongu Bitti")
 // }
 
 // let sayi1 = +prompt("0-100 arasinda bir sayi griniz:")
-// let cikis = false //?Flag mechanism
+// // let cikis = false //?Flag mechanism
 // while (sayi1 < 0 || sayi1 > 100) {
 //   console.log("Girlen sayi 0-100 arasında olmalıdır")
 //   sayi1 = prompt(
